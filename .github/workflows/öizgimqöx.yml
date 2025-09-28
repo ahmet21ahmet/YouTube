@@ -1,0 +1,74 @@
+# Bu workflow'un adı
+name: CizgiMax M3U Oluşturucu ve Depoya Yükleyici
+
+on:
+  workflow_dispatch:
+    inputs:
+      search_query:
+        description: 'Aranacak Çizgi Film Adı'
+        required: true
+        default: 'Sürekli Dizi'
+      series_choice:
+        description: 'Kaçıncı arama sonucu seçilsin?'
+        required: true
+        default: '1'
+      episode_choice:
+        description: "Hangi bölüm? ('latest' veya sayı)"
+        required: true
+        default: 'latest'
+      commit_message:
+        description: 'Commit mesajı'
+        required: true
+        default: 'Otomatik: Yeni playlist.m3u oluşturuldu'
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+
+    # --- ÖNEMLİ KISIM ---
+    # Bu işe özel izinleri burada tanımlıyoruz.
+    # 'contents: write' izni, kodun depoya 'git push' yapabilmesi için gereklidir.
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Adım: Depoyu kopyala
+      - name: Depoyu Kopyala
+        uses: actions/checkout@v4
+
+      # 2. Adım: Python 3.10 Kurulumu
+      - name: Python 3.10 Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Adım: Bağımlılıkları Yükle
+      - name: Bağımlılıkları Yükle
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4. Adım: Scraper'ı Çalıştır ve playlist.m3u oluştur
+      - name: Scraper'ı Çalıştır
+        run: |
+          python scraper_bot.py --query "${{ github.event.inputs.search_query }}" --series-choice "${{ github.event.inputs.series_choice }}" --episode-choice "${{ github.event.inputs.episode_choice }}"
+
+      # 5. Adım: Değişiklikleri Depoya Commit'le ve Push'la
+      - name: M3U Dosyasını Depoya Yükle
+        run: |
+          # Git için kullanıcı adı ve e-posta ayarla (commit atmak için zorunlu)
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+          # Yeni dosyayı veya değişiklikleri git'e ekle
+          git add playlist.m3u
+          
+          # Eğer değişiklik varsa commit at
+          # 'git diff --staged --quiet' komutu, eğer sahnelenmiş (staged) değişiklik yoksa script'in hata vermeden devam etmesini sağlar.
+          if ! git diff --staged --quiet; then
+            git commit -m "${{ github.event.inputs.commit_message }}"
+            git push
+            echo "playlist.m3u başarıyla depoya yüklendi."
+          else
+            echo "Değişiklik bulunamadı, commit atılmadı."
+          fi
