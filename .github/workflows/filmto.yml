@@ -1,0 +1,52 @@
+name: HD Film Oynatma Listesi Botu
+
+# Bu botu her gün Türkiye saatiyle (TRT/GMT+3) gece 03:00'te çalıştırmak için 
+# UTC saati 00:00 olarak ayarlanmıştır.
+on:
+  schedule:
+    # Her gün saat 00:00 UTC (Türkiye saati 03:00)
+    - cron: '0 0 * * *'
+  # Manuel çalıştırmaya izin verir (GitHub arayüzünden)
+  workflow_dispatch:
+
+jobs:
+  scrape_and_update:
+    runs-on: ubuntu-latest
+    
+    # Gerekli: GitHub tokenının (GITHUB_TOKEN) depoya yazma iznini açıkça tanımlar
+    permissions:
+      contents: write
+
+    steps:
+      - name: Depoyu Kontrol Et
+        uses: actions/checkout@v4
+
+      - name: Python Ortamını Kur ve Önbelleği Kullan
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          # Bağımlılıkları önbelleğe alır, böylece bir sonraki çalıştırma hızlanır.
+          cache: 'pip'
+
+      - name: Sistem Bağımlılıklarını (Chromium) Yükle
+        run: |
+          # Web driver'ı (Chromium) ve headless çalıştırmak için gerekli sistem bağımlılıklarını kurar
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser chromium-chromedriver
+
+      - name: Python Bağımlılıklarını requirements.txt Dosyasından Yükle
+        run: |
+          pip install -r requirements.txt
+          
+      - name: Python Kodunu Çalıştır ve M3U Listesi Oluştur
+        run: |
+          # ChromeDriver'ın yolunu PATH'e ekler
+          export PATH=$PATH:/usr/lib/chromium-browser/
+          python hdfilm_kaziyici.py
+
+      - name: Değişen Dosyaları Kaydet (Commit)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Otomatik: Yeni film listesi ve M3U dosyası güncellendi.'
+          # Sadece oluşturulan M3U dosyasını depoya yükle
+          files: hdfilmizle_playlist.m3u
