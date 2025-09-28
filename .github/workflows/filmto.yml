@@ -13,7 +13,7 @@ jobs:
   scrape_and_update:
     runs-on: ubuntu-latest
     
-    # Gerekli: GitHub tokenının (GITHUB_TOKEN) depoya yazma iznini açıkça tanımlar
+    # Gerekli: GitHub tokenının depoya yazma iznini açıkça tanımlar
     permissions:
       contents: write
 
@@ -25,23 +25,25 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-          # Bağımlılıkları önbelleğe alır, böylece bir sonraki çalıştırma hızlanır.
           cache: 'pip'
 
-      - name: Sistem Bağımlılıklarını (Chromium) Yükle
+      - name: Tüm Bağımlılıkları Kur ve Kodu Çalıştır
         run: |
-          # Web driver'ı (Chromium) ve headless çalıştırmak için gerekli sistem bağımlılıklarını kurar
+          echo "--- 1. Sistem Bağımlılıkları (Chromium) Kuruluyor ---"
+          # Web driver'ı ve headless çalıştırmak için gerekli sistem bağımlılıklarını kurar
           sudo apt-get update
           sudo apt-get install -y chromium-browser chromium-chromedriver
-
-      - name: Python Bağımlılıklarını requirements.txt Dosyasından Yükle
-        run: |
+          
+          echo "--- 2. Python Bağımlılıkları (requirements.txt) Kuruluyor ---"
+          # Python bağımlılıklarını kurar.
           pip install -r requirements.txt
           
-      - name: Python Kodunu Çalıştır ve M3U Listesi Oluştur
-        run: |
+          echo "--- 3. ChromeDriver Yolu Ayarlanıyor ---"
           # ChromeDriver'ın yolunu PATH'e ekler
           export PATH=$PATH:/usr/lib/chromium-browser/
+          
+          echo "--- 4. Python Kazıma Kodu Çalıştırılıyor ---"
+          # Doğrudan hdfilm_kaziyici.py dosyasını çalıştırıyoruz.
           python hdfilm_kaziyici.py
 
       - name: Değişen Dosyaları Kaydet (Commit)
