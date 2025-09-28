@@ -32,7 +32,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Tüm Siteyi Tara ve M3U Dosyalarını Oluştur
-        run: python scraper_full.py
+        run: python scraper_bot.py
 
       - name: Oluşturulan M3U Dosyalarını Depoya Yükle
         run: |
