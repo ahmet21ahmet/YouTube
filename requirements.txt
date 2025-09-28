@@ -1,3 +1,4 @@
-selenium
+cloudscraper
 beautifulsoup4
-requests
+pycryptodome
+lxml
