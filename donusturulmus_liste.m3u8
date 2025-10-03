@@ -3925,6 +3925,8 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19229/index.m3u8/index.m3u8
 #EXTINF:0 tvg-rec="0",Кинохит HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7250/index.m3u8/index.m3u8
+#EXTINF:0 tvg-rec="0",Київ HD
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31781/index.m3u8/index.m3u8
 #EXTINF:0 tvg-rec="0",Ключ HD
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20041/index.m3u8/index.m3u8
 #EXTINF:0 tvg-rec="0",Криминальное HD
@@ -6423,6 +6425,8 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2511/index.m3u8/index.m3u8
 #EXTINF:0 tvg-rec="3",Yerkir Media HD AM
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/608/index.m3u8/index.m3u8
+#EXTINF:0 tvg-rec="3",Yes Israeli Cinema
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2342/index.m3u8/index.m3u8
 #EXTINF:0 tvg-rec="3",Yes Movies Action IL
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2350/index.m3u8/index.m3u8
 #EXTINF:0 tvg-rec="3",Yes Movies Comedy IL
@@ -6723,8 +6727,6 @@ http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9033/index.m3u8/index.m3u8
 #EXTINF:0 tvg-rec="3",Кинохит orig
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9128/index.m3u8/index.m3u8
-#EXTINF:0 tvg-rec="3",Київ HD UA
-http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1040/index.m3u8/index.m3u8
 #EXTINF:0 tvg-rec="3",Київ UA
 http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/1045/index.m3u8/index.m3u8
 #EXTINF:0 tvg-rec="3",Комедийное HD orig
