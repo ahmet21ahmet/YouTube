@@ -4205,12 +4205,12 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31909/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31919/index.m3u8
 #EXTINF:0 tvg-rec="0",ЛТВ HD (Люберцы)
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/31927/index.m3u8
+#EXTINF:0 tvg-rec="0",Women's Magazine HD
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20010/index.m3u8
 #EXTINF:0 tvg-rec="7",Shopping Live
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/860/index.m3u8
 #EXTINF:0 tvg-rec="3",Мой Мир
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/5008/index.m3u8
-#EXTINF:0 tvg-rec="0",Women's Magazine HD
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/20010/index.m3u8
 #EXTINF:0 tvg-rec="3",Nano orig
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9321/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Граиндхаус
@@ -4869,6 +4869,10 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19057/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19060/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 2 HD BR
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19061/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Action HD 50 UK
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9155/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2505/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Mix HD 50 UK
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9310/index.m3u8
 #EXTINF:0 tvg-rec="3",Premier Sports 1 HD 50 UK
@@ -4893,10 +4897,6 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9289/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9258/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9334/index.m3u8
-#EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2505/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Action HD 50 UK
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/9155/index.m3u8
 #EXTINF:0 tvg-rec="0",ITV Quiz UK
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19190/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
@@ -5471,6 +5471,8 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7355/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/7358/index.m3u8
 #EXTINF:0 tvg-rec="3",ONTime Sports EG
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2512/index.m3u8
+#EXTINF:0 tvg-rec="0",5Sport 4K IL
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/16019/index.m3u8
 #EXTINF:0 tvg-rec="0",Turkish Dramas 2 HD IL
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/14208/index.m3u8
 #EXTINF:0 tvg-rec="3",HOT Cinema Family HD IL
@@ -5481,8 +5483,6 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/14220/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/14207/index.m3u8
 #EXTINF:0 tvg-rec="3",Keshet 12 HD IL
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2329/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport 4K IL
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/16019/index.m3u8
 #EXTINF:0 tvg-rec="3",Reshet 13 HD IL
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2330/index.m3u8
 #EXTINF:0 tvg-rec="3",Channel 9 IL
@@ -6035,6 +6035,8 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19107/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19108/index.m3u8
 #EXTINF:0 tvg-rec="0",Super Tennis HD IT
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/19111/index.m3u8
+#EXTINF:0 tvg-rec="0",Qyzylorda KZ
+http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/14233/index.m3u8
 #EXTINF:0 tvg-rec="3",Qazaqstan KZ
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2210/index.m3u8
 #EXTINF:0 tvg-rec="0",Ulytau KZ
@@ -6053,8 +6055,6 @@ http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15005/index.m3u8
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/14223/index.m3u8
 #EXTINF:0 tvg-rec="0",Ontustik KZ
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/15001/index.m3u8
-#EXTINF:0 tvg-rec="0",Qyzylorda KZ
-http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/14233/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК HD KZ
 http://463758a0.ucomist.net/iptv/V4ZVP6G52HVXDE/2211/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал Евразия KZ
