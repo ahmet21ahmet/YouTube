@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0",ОТР HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/20018/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал FHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2402/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/20018/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/204/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал
