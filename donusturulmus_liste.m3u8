@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="7",Первый канал FHD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2402/index.m3u8
 #EXTINF:0 tvg-rec="0",ОТР HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/20018/index.m3u8
+#EXTINF:0 tvg-rec="7",Первый канал FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2402/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/204/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал
@@ -4869,6 +4869,16 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19057/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19060/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 2 HD BR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19061/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Racing HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9335/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports+ HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9248/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9314/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Main Event HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9308/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky History HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/16037/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Football HD 50 UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9289/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Cricket HD 50 UK
@@ -4887,16 +4897,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2160/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9293/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9283/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Racing HD 50 UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9335/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports+ HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9248/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports News HD 50 UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9314/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Main Event HD 50 UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9308/index.m3u8
-#EXTINF:0 tvg-rec="0",Sky History HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/16037/index.m3u8
 #EXTINF:0 tvg-rec="0",ITV Quiz UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19190/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
@@ -5471,18 +5471,18 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/7355/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/7358/index.m3u8
 #EXTINF:0 tvg-rec="3",ONTime Sports EG
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2512/index.m3u8
-#EXTINF:0 tvg-rec="3",Keshet 12 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2329/index.m3u8
-#EXTINF:0 tvg-rec="0",5Sport 4K IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/16019/index.m3u8
-#EXTINF:0 tvg-rec="0",Turkish Dramas 2 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14208/index.m3u8
 #EXTINF:0 tvg-rec="3",HOT Cinema Family HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2151/index.m3u8
 #EXTINF:0 tvg-rec="0",Turkish Dramas 3 HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14220/index.m3u8
 #EXTINF:0 tvg-rec="0",Turkish Dramas Plus HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14207/index.m3u8
+#EXTINF:0 tvg-rec="3",Keshet 12 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2329/index.m3u8
+#EXTINF:0 tvg-rec="0",5Sport 4K IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/16019/index.m3u8
+#EXTINF:0 tvg-rec="0",Turkish Dramas 2 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14208/index.m3u8
 #EXTINF:0 tvg-rec="3",Reshet 13 HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2330/index.m3u8
 #EXTINF:0 tvg-rec="3",Channel 9 IL
@@ -6035,6 +6035,14 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19107/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19108/index.m3u8
 #EXTINF:0 tvg-rec="0",Super Tennis HD IT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19111/index.m3u8
+#EXTINF:0 tvg-rec="0",Otyrar KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14237/index.m3u8
+#EXTINF:0 tvg-rec="0",Jambyl KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14232/index.m3u8
+#EXTINF:0 tvg-rec="0",Qadam TV KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/15005/index.m3u8
+#EXTINF:0 tvg-rec="0",Aqsham TV KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14223/index.m3u8
 #EXTINF:0 tvg-rec="0",Ontustik KZ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/15001/index.m3u8
 #EXTINF:0 tvg-rec="0",Qyzylorda KZ
@@ -6047,14 +6055,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14231/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/15004/index.m3u8
 #EXTINF:0 tvg-rec="0",Айгак KZ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/15002/index.m3u8
-#EXTINF:0 tvg-rec="0",Otyrar KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14237/index.m3u8
-#EXTINF:0 tvg-rec="0",Jambyl KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14232/index.m3u8
-#EXTINF:0 tvg-rec="0",Qadam TV KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/15005/index.m3u8
-#EXTINF:0 tvg-rec="0",Aqsham TV KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14223/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК HD KZ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2211/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал Евразия KZ
