@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="0",ОТР HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/20018/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал FHD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2402/index.m3u8
+#EXTINF:0 tvg-rec="0",ОТР HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/20018/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/204/index.m3u8
 #EXTINF:0 tvg-rec="7",Первый канал
@@ -4115,12 +4115,12 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/31909/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/31919/index.m3u8
 #EXTINF:0 tvg-rec="0",ЛТВ HD (Люберцы)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/31927/index.m3u8
-#EXTINF:0 tvg-rec="0",Women's Magazine HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/20010/index.m3u8
 #EXTINF:0 tvg-rec="7",Shopping Live
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/860/index.m3u8
 #EXTINF:0 tvg-rec="3",Мой Мир
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/5008/index.m3u8
+#EXTINF:0 tvg-rec="0",Women's Magazine HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/20010/index.m3u8
 #EXTINF:0 tvg-rec="3",Nano orig
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9321/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Граиндхаус
@@ -4777,6 +4777,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19057/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19060/index.m3u8
 #EXTINF:0 tvg-rec="0",ESPN 2 HD BR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19061/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Golf HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9293/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9283/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Racing HD 50 UK
@@ -4795,16 +4797,14 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9289/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9258/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9334/index.m3u8
-#EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2505/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Action HD 50 UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9155/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2505/index.m3u8
 #EXTINF:0 tvg-rec="3",Sky Sports Mix HD 50 UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9310/index.m3u8
 #EXTINF:0 tvg-rec="3",Premier Sports 1 HD 50 UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2160/index.m3u8
-#EXTINF:0 tvg-rec="3",Sky Sports Golf HD 50 UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/9293/index.m3u8
 #EXTINF:0 tvg-rec="0",ITV Quiz UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19190/index.m3u8
 #EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
@@ -5935,6 +5935,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19107/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19108/index.m3u8
 #EXTINF:0 tvg-rec="0",Super Tennis HD IT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/19111/index.m3u8
+#EXTINF:0 tvg-rec="0",Ассамблея ТВ KZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/15004/index.m3u8
 #EXTINF:0 tvg-rec="0",Айгак KZ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/15002/index.m3u8
 #EXTINF:0 tvg-rec="0",Otyrar KZ
@@ -5953,8 +5955,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14233/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2210/index.m3u8
 #EXTINF:0 tvg-rec="0",Ulytau KZ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/14231/index.m3u8
-#EXTINF:0 tvg-rec="0",Ассамблея ТВ KZ
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/15004/index.m3u8
 #EXTINF:0 tvg-rec="3",КТК HD KZ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/2211/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый канал Евразия KZ
@@ -6135,10 +6135,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/6509/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/6512/index.m3u8
 #EXTINF:0 tvg-rec="0",CBC Toronto HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/6513/index.m3u8
-#EXTINF:0 tvg-rec="0",FX
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/6516/index.m3u8
 #EXTINF:0 tvg-rec="0",ICI Radio-Canada Télé CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/6515/index.m3u8
+#EXTINF:0 tvg-rec="0",FX
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/6516/index.m3u8
 #EXTINF:0 tvg-rec="0",TSN 5 HD CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/6517/index.m3u8
 #EXTINF:0 tvg-rec="0",History CA
@@ -6443,10 +6443,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/15201/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/15202/index.m3u8
 #EXTINF:0 tvg-rec="0",Al Hadath AE
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/15203/index.m3u8
-#EXTINF:0 tvg-rec="0",Eurosport 2 HD PL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/20066/index.m3u8
 #EXTINF:0 tvg-rec="0",Eurosport 1 HD PL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/20058/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD PL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/20066/index.m3u8
 #EXTINF:0 tvg-rec="0",Polsat Rodzina HD PL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/ECGM77FWEMMA46/7301/index.m3u8
 #EXTINF:0 tvg-rec="0",Canal+ Kuchnia PL
